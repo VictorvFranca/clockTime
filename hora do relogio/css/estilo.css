@@ -1,0 +1,22 @@
+body{
+    background-color: darkcyan;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+span{
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#hora, #min, #sec{
+    background-color: #fff;
+}
